@@ -1,0 +1,8 @@
+name: magnetfruit_mysql_database_handler
+version: 0.1.0
+description: 'Avocadorm database handler for MySQL.'
+author: Zyrthofar <zyrthofar@magnetfruit.com>
+homepage: 'http://www.magnetfruit.com/mysqldatabasehandler/'
+dependencies:
+  magnetfruit_database_handler: any
+  sqljocky: 0.11.0
