@@ -3,7 +3,7 @@ import 'dart:mirrors';
 import 'package:magnetfruit_database_handler/database_handler.dart';
 import 'package:sqljocky/sqljocky.dart';
 
-/// A MySQL database interface for usage with an [Avocadorm].
+/// A database handler used by the `avocadorm` to talk to a MySQL database.
 class MySqlDatabaseHandler extends DatabaseHandler {
 
   /// Handler of queries for the database.
