@@ -5,4 +5,4 @@ author: Zyrthofar <zyrthofar@magnetfruit.com>
 homepage: 'http://www.magnetfruit.com/databasehandler/'
 dependencies:
   magnetfruit_database_handler: ">=0.1.2 <0.2.0"
-  sqljocky: 0.11.0
+  sqljocky: 0.14.1
